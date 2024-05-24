@@ -1,3 +1,4 @@
+![logo]
 <h1 align="center">Hi 👋, I'm Yogeshwaran</h1>
 <h3 align="center">A passionate fullstack developer from Trichy</h3>
 <img align="center" alt="coding" width="500" scr="https://imgs.search.brave.com/9_7yNpauLWt_Qm4aFO_kF7EStfp3RC7N_72zC1TYPi4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL2FiaGlz/aGVrbmFpaWR1L2Fi/aGlzaGVrbmFpaWR1/L3Jhdy9tYXN0ZXIv/Y29kZS5naWY_cmF3/PXRydWU.jpeg"> </img>
@@ -9,7 +10,7 @@
 
 - 💬 Ask me about **MERN stack**
 
-- 📫 How to reach me **yogiibinghu1528@gmail.com**
+- 📫 How to reach me **yogiibindhu1528@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
