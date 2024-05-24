@@ -1,4 +1,4 @@
-![logo]
+![logo](https://github.com/Mr-yogii/Mr-yogii/blob/main/hack%20banner%20.jpg)
 <h1 align="center">Hi 👋, I'm Yogeshwaran</h1>
 <h3 align="center">A passionate fullstack developer from Trichy</h3>
 <img align="center" alt="coding" width="500" scr="https://imgs.search.brave.com/9_7yNpauLWt_Qm4aFO_kF7EStfp3RC7N_72zC1TYPi4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL2FiaGlz/aGVrbmFpaWR1L2Fi/aGlzaGVrbmFpaWR1/L3Jhdy9tYXN0ZXIv/Y29kZS5naWY_cmF3/PXRydWU.jpeg"> </img>
